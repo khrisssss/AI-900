@@ -6,7 +6,7 @@ This questionnaire is based on the book *"Azure AI Fundamentals (AI-900) Study G
 
 ---
 
-## Practice Questions
+# Practice Questions
 ## Chapter 3 Practice Questions
 
 ---
@@ -215,5 +215,217 @@ This questionnaire is based on the book *"Azure AI Fundamentals (AI-900) Study G
 * <b>NLP</b> understands language but doesn't specialize in document structure. 
 * <b>Generative AI</b> creates content. 
 * <b>Content moderation</b> filters material.
+</blockquote>
+</details>
+
+This is perfect for a GitHub README. Chapter 4 covers the core "Data Science" part of the AI-900, which is often the hardest part for students. Including the "Why the others are wrong" section will be extremely helpful for your colleagues to understand the difference between Regression, Classification, and Clustering.
+
+Copy and paste this block into your README.md in VS Code below your Chapter 3 section:
+
+Markdown
+## Chapter 4: Fundamental Principles of Machine Learning
+
+---
+
+### 1. What is the primary purpose of regression analysis in machine learning (ML)?
+* a. To categorize data into distinct classes
+* b. To cluster similar data points
+* c. To predict a numerical outcome based on variables
+* d. To analyze images and videos
+
+<details>
+<summary><b>Show Answer</b></summary>
+<br>
+<blockquote>
+✅ <b>Correct Answer: C</b><br><br>
+<b>Why it's correct:</b> The primary purpose of regression is to predict a <b>numerical/continuous value</b> (like price or temperature).<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Choice A</b> describes Classification.
+* <b>Choice B</b> describes Clustering.
+* <b>Choice D</b> refers to Computer Vision/Deep Learning tasks.
+</blockquote>
+</details>
+
+---
+
+### 2. Which of the following is an example of supervised learning?
+* a. K-means clustering
+* b. Predicting house prices based on features
+* c. Segmenting customers based on purchase history
+* d. Identifying anomalies in financial transactions
+
+<details>
+<summary><b>Show Answer</b></summary>
+<br>
+<blockquote>
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> Predicting house prices uses <b>labeled data</b> (known past prices) to train the model, which is the definition of supervised learning.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>K-means</b> and <b>customer segmentation</b> are unsupervised (they find patterns in unlabeled data).
+* <b>Anomaly detection</b> is often unsupervised or semi-supervised.
+</blockquote>
+</details>
+
+---
+
+### 3. In binary classification, which algorithm is commonly used to predict probabilities between two classes?
+* a. Linear regression
+* b. Logistic regression
+* c. Decision trees
+* d. K-means
+
+<details>
+<summary><b>Show Answer</b></summary>
+<br>
+<blockquote>
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> Despite the name, <b>Logistic Regression</b> is a classification algorithm that outputs a probability (0 to 1) to put data into one of two categories.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Linear regression</b> predicts continuous numbers, not class probabilities.
+* <b>Decision trees</b> can classify but don't inherently focus on probability scores.
+* <b>K-means</b> is for clustering, not classification.
+</blockquote>
+</details>
+
+---
+
+### 4. What does the F1 score represent in model evaluation?
+* a. The model’s ability to distinguish between classes
+* b. The average of errors in predictions
+* c. A balance between precision and recall
+* d. The total accuracy of the model
+
+<details>
+<summary><b>Show Answer</b></summary>
+<br>
+<blockquote>
+✅ <b>Correct Answer: C</b><br><br>
+<b>Why it's correct:</b> The F1 score is the "harmonic mean" of <b>precision and recall</b>, providing a single metric that balances both.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Choice A</b> is usually measured by AUC (Area Under Curve).
+* <b>Choice B</b> describes error metrics like MSE or MAE used in regression.
+* <b>Choice D</b> (Accuracy) is a different metric that can be misleading if classes are unbalanced.
+</blockquote>
+</details>
+
+---
+
+### 5. Which step in the ML workflow involves using the model to generate predictions?
+* a. Training
+* b. Inferencing
+* c. Validation
+* d. Data preparation
+
+<details>
+<summary><b>Show Answer</b></summary>
+<br>
+<blockquote>
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> <b>Inferencing</b> is the "live" phase where a trained model processes new data to provide an answer/prediction.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Training</b> is the learning phase.
+* <b>Validation</b> is for checking performance during training.
+* <b>Data preparation</b> happens before the model even exists.
+</blockquote>
+</details>
+
+---
+
+### 6. What type of learning is K-means clustering associated with?
+* a. Supervised
+* b. Semisupervised
+* c. Reinforcement
+* d. Unsupervised
+
+<details>
+<summary><b>Show Answer</b></summary>
+<br>
+<blockquote>
+✅ <b>Correct Answer: D</b><br><br>
+<b>Why it's correct:</b> <b>K-means clustering</b> works on unlabeled data to find natural groups, which is a core unsupervised learning task.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Supervised</b> requires labels.
+* <b>Reinforcement</b> uses a reward/penalty system.
+</blockquote>
+</details>
+
+---
+
+### 7. What metric measures how well a regression model explains the variation in data?
+* a. Mean squared error (MSE)
+* b. Coefficient of determination (R²)
+* c. Root mean squared error (RMSE)
+* d. Mean absolute error (MAE)
+
+<details>
+<summary><b>Show Answer</b></summary>
+<br>
+<blockquote>
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> <b>R² (R-Squared)</b> tells you what percentage of the data's variance is explained by the model (closer to 1.0 is better).<br><br>
+<b>Why the others are wrong:</b> 
+* <b>MSE, RMSE, and MAE</b> all measure <b>error</b> (the distance between prediction and reality), not the variance explanation.
+</blockquote>
+</details>
+
+---
+
+### 8. Which approach is used to address missing data by estimating based on patterns in available data?
+* a. Mean imputation
+* b. Predictive imputation
+* c. Removal of incomplete data
+* d. Data normalization
+
+<details>
+<summary><b>Show Answer</b></summary>
+<br>
+<blockquote>
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> <b>Predictive imputation</b> uses other features in the dataset to "guess" or predict what the missing value should be.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Mean imputation</b> just uses the average (less accurate).
+* <b>Removal</b> deletes the data entirely, which can cause bias.
+* <b>Normalization</b> scales data (e.g., 0 to 1) but doesn't fill gaps.
+</blockquote>
+</details>
+
+---
+
+### 9. What is the primary goal of classification in ML?
+* a. To identify hidden patterns in unlabeled data
+* b. To predict numerical outcomes
+* c. To assign data points to predefined categories
+* d. To generate new content
+
+<details>
+<summary><b>Show Answer</b></summary>
+<br>
+<blockquote>
+✅ <b>Correct Answer: C</b><br><br>
+<b>Why it's correct:</b> Classification is about putting data into <b>buckets or categories</b> (e.g., Spam vs. Not Spam).<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Choice A</b> is the goal of Clustering.
+* <b>Choice B</b> is the goal of Regression.
+* <b>Choice D</b> is the goal of Generative AI.
+</blockquote>
+</details>
+
+---
+
+### 10. Which ML technique is suitable for grouping similar data points without labels?
+* a. Regression
+* b. Classification
+* c. Clustering
+* d. Deep learning (DL)
+
+<details>
+<summary><b>Show Answer</b></summary>
+<br>
+<blockquote>
+✅ <b>Correct Answer: C</b><br><br>
+<b>Why it's correct:</b> <b>Clustering</b> is the specific technique used to group unlabeled data points based on similarities.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Regression</b> and <b>Classification</b> are supervised techniques (they need labels).
+* <b>Deep learning</b> is a broad field that can do clustering, but Clustering is the fundamental technique name.
 </blockquote>
 </details>
