@@ -3,7 +3,6 @@
 I created these **AI-900 questionnaires** to help people study for their certification, especially my colleagues. I am proudly a student from **Simplon**. 
 
 This questionnaire is based on the book *"Azure AI Fundamentals (AI-900) Study Guide."* I hope it helps you on your learning journey!
-<img width="533" height="700" alt="azurecover" src="https://github.com/user-attachments/assets/5f887b82-5fc1-4e54-9fd9-8dcdc0cddc8d" />
 
 
 ---
