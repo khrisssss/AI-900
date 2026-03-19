@@ -2,27 +2,8 @@
 
 I created these **AI-900 questionnaires** to help people study for their certification, especially my colleagues. I am proudly a student from **Simplon**. 
 
-This comprehensive guide includes chapter-specific quizzes and a full **55-question practice exam** based on the book *"Azure AI Fundamentals (AI-900) Study Guide."* I hope this resource helps you succeed on your learning journey!
+This questionnaire is based on the book *"Azure AI Fundamentals (AI-900) Study Guide."* I hope it helps you on your learning journey!
 
-<<<<<<< HEAD
-<p align="center">
-  <img src="./cbfd06bc-1.png" width="400" alt="AI-900 Study Guide Cover">
-</p>
----
-
-## Table of Contents
-1. [Chapter 3: Computer Vision & NLP](#chapter-3-practice-questions)
-2. [Chapter 4: Machine Learning Principles](#chapter-4-fundamental-principles-of-machine-learning)
-3. [Chapter 5: Azure Machine Learning & Model Evaluation](#chapter-5-azure-machine-learning-model-evaluation)
-4. [Chapter 6: Computer Vision](#chapter-6-computer-vision)
-5. [Chapter 7: Natural Language Processing (NLP)](#chapter-7-natural-language-processing-nlp)
-6. [Chapter 8: Generative AI & Responsible AI](#chapter-8-generative-ai-responsible-ai)
-7. [**AI-900 Final Practice Exam (55 Questions)**](#ai-900-final-practice-exam-)
-
----
-=======
-
->>>>>>> e6d79a8cff8d3fb96519af75d190a181f6e03566
 ---
 
 # Practice Questions
@@ -40,8 +21,12 @@ This comprehensive guide includes chapter-specific quizzes and a full **55-quest
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
-<b>Why it's correct:</b> Content moderation is specifically designed to detect and filter harmful or inappropriate content online.
+✅ <b>Correct Answer: C</b><br><br>
+<b>Why it's correct:</b> Content moderation is specifically designed to detect and filter harmful or inappropriate content online.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Knowledge mining</b> extracts insights from large datasets. 
+* <b>Generative AI</b> produces new content. 
+* <b>Document intelligence</b> focuses on data extraction from documents.
 </blockquote>
 </details>
 
@@ -57,8 +42,12 @@ This comprehensive guide includes chapter-specific quizzes and a full **55-quest
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: A</b><br><br>
-<b>Why it's correct:</b> AI personalization aims to recommend content that aligns with a user’s preferences and behavior to enhance their experience.
+✅ <b>Correct Answer: A</b><br><br>
+<b>Why it's correct:</b> AI personalization aims to recommend content that aligns with a user’s preferences and behavior to enhance their experience.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Choice B</b> is a function of Generative AI. 
+* <b>Choice C</b> falls under Content Moderation. 
+* <b>Choice D</b> is a core part of Natural Language Processing.
 </blockquote>
 </details>
 
@@ -74,8 +63,12 @@ This comprehensive guide includes chapter-specific quizzes and a full **55-quest
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: A</b><br><br>
-<b>Why it's correct:</b> NLP is the workload dedicated to analyzing, interpreting, and generating human language.
+✅ <b>Correct Answer: A</b><br><br>
+<b>Why it's correct:</b> NLP is the workload dedicated to analyzing, interpreting, and generating human language.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Content moderation</b> identifies inappropriate material, it doesn't "understand" language. 
+* <b>Computer vision</b> deals with images and videos. 
+* <b>Document intelligence</b> extracts info but isn't specialized in language analysis itself.
 </blockquote>
 </details>
 
@@ -91,8 +84,12 @@ This comprehensive guide includes chapter-specific quizzes and a full **55-quest
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
-<b>Why it's correct:</b> Computer vision uses OCR to "see" and extract text from visual files.
+✅ <b>Correct Answer: C</b><br><br>
+<b>Why it's correct:</b> Computer vision uses OCR to "see" and extract text from visual files.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>NLP</b> focuses on text analysis, not image content. 
+* <b>Knowledge mining</b> derives insights from data but not via OCR. 
+* <b>Generative AI</b> creates new content rather than extracting existing text.
 </blockquote>
 </details>
 
@@ -108,8 +105,12 @@ This comprehensive guide includes chapter-specific quizzes and a full **55-quest
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> Knowledge mining is used specifically to uncover hidden insights across vast amounts of unstructured data.
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> Knowledge mining is used specifically to uncover hidden insights across vast amounts of unstructured data.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Document intelligence</b> handles structured documents (like forms). 
+* <b>Computer vision</b> handles visuals but not generalized insights. 
+* <b>NLP</b> is for language tasks, not broad data mining.
 </blockquote>
 </details>
 
@@ -125,8 +126,11 @@ This comprehensive guide includes chapter-specific quizzes and a full **55-quest
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> Generative AI is designed to create entirely new, original material.
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> Generative AI is designed to create entirely new, original material.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>NLP</b> processes language but doesn't focus on producing original multimedia. 
+* <b>Knowledge mining</b> and <b>Document intelligence</b> work with *existing* data, they don't generate *new* data.
 </blockquote>
 </details>
 
@@ -142,8 +146,12 @@ This comprehensive guide includes chapter-specific quizzes and a full **55-quest
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: A</b><br><br>
-<b>Why it's correct:</b> The Analyze Text API is the specific tool within Content Safety for scanning text.
+✅ <b>Correct Answer: A</b><br><br>
+<b>Why it's correct:</b> The Analyze Text API is the specific tool within Content Safety for scanning text.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Analyze Image API</b> scans pictures. 
+* <b>Custom Categories API</b> defines groups but doesn't scan the text itself. 
+* <b>Moderate Text API</b> is a broader term, but "Analyze Text" is the specific API name.
 </blockquote>
 </details>
 
@@ -159,8 +167,12 @@ This comprehensive guide includes chapter-specific quizzes and a full **55-quest
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: A</b><br><br>
-<b>Why it's correct:</b> Fairness ensures that the system provides equal treatment regardless of demographic groups.
+✅ <b>Correct Answer: A</b><br><br>
+<b>Why it's correct:</b> Fairness ensures that the system provides equal treatment regardless of demographic groups.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Transparency</b> makes the AI understandable. 
+* <b>Inclusiveness</b> makes AI accessible. 
+* <b>Accountability</b> ensures developers take responsibility for the AI's behavior.
 </blockquote>
 </details>
 
@@ -176,8 +188,12 @@ This comprehensive guide includes chapter-specific quizzes and a full **55-quest
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
-<b>Why it's correct:</b> Computer vision is the primary field for interpreting visual data.
+✅ <b>Correct Answer: C</b><br><br>
+<b>Why it's correct:</b> Computer vision is the primary field for interpreting visual data.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>NLP</b> is for language. 
+* <b>Knowledge mining</b> is for data insights. 
+* <b>Generative AI</b> is for creating content, not necessarily analyzing existing visual media.
 </blockquote>
 </details>
 
@@ -193,8 +209,12 @@ This comprehensive guide includes chapter-specific quizzes and a full **55-quest
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: D</b><br><br>
-<b>Why it's correct:</b> Document Intelligence (formerly Form Recognizer) is built specifically for processing large volumes of documents.
+✅ <b>Correct Answer: D</b><br><br>
+<b>Why it's correct:</b> Document Intelligence (formerly Form Recognizer) is built specifically for processing large volumes of documents.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>NLP</b> understands language but doesn't specialize in document structure. 
+* <b>Generative AI</b> creates content. 
+* <b>Content moderation</b> filters material.
 </blockquote>
 </details>
 
@@ -216,8 +236,12 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
-<b>Why it's correct:</b> The primary purpose of regression is to predict a <b>numerical/continuous value</b> (like price or temperature).
+✅ <b>Correct Answer: C</b><br><br>
+<b>Why it's correct:</b> The primary purpose of regression is to predict a <b>numerical/continuous value</b> (like price or temperature).<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Choice A</b> describes Classification.
+* <b>Choice B</b> describes Clustering.
+* <b>Choice D</b> refers to Computer Vision/Deep Learning tasks.
 </blockquote>
 </details>
 
@@ -233,8 +257,11 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> Predicting house prices uses <b>labeled data</b> (known past prices) to train the model, which is the definition of supervised learning.
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> Predicting house prices uses <b>labeled data</b> (known past prices) to train the model, which is the definition of supervised learning.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>K-means</b> and <b>customer segmentation</b> are unsupervised (they find patterns in unlabeled data).
+* <b>Anomaly detection</b> is often unsupervised or semi-supervised.
 </blockquote>
 </details>
 
@@ -250,8 +277,12 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> Despite the name, <b>Logistic Regression</b> is a classification algorithm that outputs a probability (0 to 1) to put data into one of two categories.
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> Despite the name, <b>Logistic Regression</b> is a classification algorithm that outputs a probability (0 to 1) to put data into one of two categories.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Linear regression</b> predicts continuous numbers, not class probabilities.
+* <b>Decision trees</b> can classify but don't inherently focus on probability scores.
+* <b>K-means</b> is for clustering, not classification.
 </blockquote>
 </details>
 
@@ -267,8 +298,12 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
-<b>Why it's correct:</b> The F1 score is the "harmonic mean" of <b>precision and recall</b>, providing a single metric that balances both.
+✅ <b>Correct Answer: C</b><br><br>
+<b>Why it's correct:</b> The F1 score is the "harmonic mean" of <b>precision and recall</b>, providing a single metric that balances both.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Choice A</b> is usually measured by AUC (Area Under Curve).
+* <b>Choice B</b> describes error metrics like MSE or MAE used in regression.
+* <b>Choice D</b> (Accuracy) is a different metric that can be misleading if classes are unbalanced.
 </blockquote>
 </details>
 
@@ -284,8 +319,12 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> <b>Inferencing</b> is the "live" phase where a trained model processes new data to provide an answer/prediction.
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> <b>Inferencing</b> is the "live" phase where a trained model processes new data to provide an answer/prediction.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Training</b> is the learning phase.
+* <b>Validation</b> is for checking performance during training.
+* <b>Data preparation</b> happens before the model even exists.
 </blockquote>
 </details>
 
@@ -301,8 +340,11 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: D</b><br><br>
-<b>Why it's correct:</b> <b>K-means clustering</b> works on unlabeled data to find natural groups, which is a core unsupervised learning task.
+✅ <b>Correct Answer: D</b><br><br>
+<b>Why it's correct:</b> <b>K-means clustering</b> works on unlabeled data to find natural groups, which is a core unsupervised learning task.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Supervised</b> requires labels.
+* <b>Reinforcement</b> uses a reward/penalty system.
 </blockquote>
 </details>
 
@@ -318,8 +360,10 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> <b>R² (R-Squared)</b> tells you what percentage of the data's variance is explained by the model (closer to 1.0 is better).
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> <b>R² (R-Squared)</b> tells you what percentage of the data's variance is explained by the model (closer to 1.0 is better).<br><br>
+<b>Why the others are wrong:</b> 
+* <b>MSE, RMSE, and MAE</b> all measure <b>error</b> (the distance between prediction and reality), not the variance explanation.
 </blockquote>
 </details>
 
@@ -335,8 +379,12 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> <b>Predictive imputation</b> uses other features in the dataset to "guess" or predict what the missing value should be.
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> <b>Predictive imputation</b> uses other features in the dataset to "guess" or predict what the missing value should be.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Mean imputation</b> just uses the average (less accurate).
+* <b>Removal</b> deletes the data entirely, which can cause bias.
+* <b>Normalization</b> scales data (e.g., 0 to 1) but doesn't fill gaps.
 </blockquote>
 </details>
 
@@ -352,8 +400,12 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
-<b>Why it's correct:</b> Classification is about putting data into <b>buckets or categories</b> (e.g., Spam vs. Not Spam).
+✅ <b>Correct Answer: C</b><br><br>
+<b>Why it's correct:</b> Classification is about putting data into <b>buckets or categories</b> (e.g., Spam vs. Not Spam).<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Choice A</b> is the goal of Clustering.
+* <b>Choice B</b> is the goal of Regression.
+* <b>Choice D</b> is the goal of Generative AI.
 </blockquote>
 </details>
 
@@ -369,8 +421,11 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
-<b>Why it's correct:</b> <b>Clustering</b> is the specific technique used to group unlabeled data points based on similarities.
+✅ <b>Correct Answer: C</b><br><br>
+<b>Why it's correct:</b> <b>Clustering</b> is the specific technique used to group unlabeled data points based on similarities.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Regression</b> and <b>Classification</b> are supervised techniques (they need labels).
+* <b>Deep learning</b> is a broad field that can do clustering, but Clustering is the fundamental technique name.
 </blockquote>
 </details>
 
@@ -388,8 +443,12 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> Regression is the standard technique for predicting continuous numerical values (like sales or price).
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> Regression is the standard technique for predicting continuous numerical values (like sales or price).<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Classification</b> assigns data to categories.
+* <b>Clustering</b> groups similar data without making predictions.
+* <b>Deep learning</b> can do many things, but "Regression" is the specific name for numerical prediction.
 </blockquote>
 </details>
 
@@ -405,8 +464,12 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
-<b>Why it's correct:</b> <b>Mean Absolute Error (MAE)</b> treats all errors equally by taking the absolute value, providing a straightforward average of how far off the predictions were.
+✅ <b>Correct Answer: C</b><br><br>
+<b>Why it's correct:</b> <b>Mean Absolute Error (MAE)</b> treats all errors equally by taking the absolute value, providing a straightforward average of how far off the predictions were.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>MSE</b> squares the errors (making large errors look much worse).
+* <b>R²</b> measures variance explanation, not error size.
+* <b>RMSE</b> is the square root of MSE; it still emphasizes larger errors more than MAE does.
 </blockquote>
 </details>
 
@@ -422,8 +485,12 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> Logistic regression outputs a value between 0 and 1, which represents the <b>probability</b> of a piece of data belonging to a specific class.
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> Logistic regression outputs a value between 0 and 1, which represents the <b>probability</b> of a piece of data belonging to a specific class.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>K-means</b> is for clustering.
+* <b>Linear regression</b> is for continuous numbers.
+* <b>Decision trees</b> classify but don't inherently provide a probability score like logistic regression.
 </blockquote>
 </details>
 
@@ -439,8 +506,9 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> <b>AutoML</b> focuses on automating <b>Classification, Regression, and Time-series forecasting</b>, all of which are Supervised Learning tasks.
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> <b>AutoML</b> focuses on automating <b>Classification, Regression, and Time-series forecasting</b>, all of which are Supervised Learning tasks.<br><br>
+<b>Why the others are wrong:</b> It does not currently focus on Reinforcement or Unsupervised learning (like clustering).
 </blockquote>
 </details>
 
@@ -456,8 +524,11 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> <b>One-vs-Rest (OVR)</b> creates a separate "Yes/No" classifier for every single category (e.g., Apple vs. Everything else, Orange vs. Everything else).
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> <b>One-vs-Rest (OVR)</b> creates a separate "Yes/No" classifier for every single category (e.g., Apple vs. Everything else, Orange vs. Everything else).<br><br>
+<b>Why the others are wrong:</b> 
+* <b>K-means</b> is clustering.
+* <b>Multinomial</b> handles all classes in one model rather than separate binary ones.
 </blockquote>
 </details>
 
@@ -473,8 +544,12 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> <b>AutoML</b> is designed to save time by automatically testing different algorithms and hyperparameters to see which one performs best.
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> <b>AutoML</b> is designed to save time by automatically testing different algorithms and hyperparameters to see which one performs best.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Custom scripts</b> are manual.
+* <b>Dataset storage</b> is just for data management.
+* <b>Pipelines</b> are for workflow automation, not algorithm selection.
 </blockquote>
 </details>
 
@@ -490,8 +565,12 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
-<b>Why it's correct:</b> <b>Recall</b> (Sensitivity) measures how many of the <i>actual</i> positives the model successfully found.
+✅ <b>Correct Answer: C</b><br><br>
+<b>Why it's correct:</b> <b>Recall</b> (Sensitivity) measures how many of the <i>actual</i> positives the model successfully found.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Accuracy</b> counts overall correctness.
+* <b>Precision</b> measures how many <i>predicted</i> positives were actually correct.
+* <b>F1 Score</b> is a balance of both.
 </blockquote>
 </details>
 
@@ -507,8 +586,9 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
-<b>Why it's correct:</b> Clustering finds natural groupings in data when you don't have existing labels.
+✅ <b>Correct Answer: C</b><br><br>
+<b>Why it's correct:</b> Clustering finds natural groupings in data when you don't have existing labels.<br><br>
+<b>Why the others are wrong:</b> Supervised learning (A), Classification (B), and Regression (D) all require labeled data.
 </blockquote>
 </details>
 
@@ -524,8 +604,11 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
-<b>Why it's correct:</b> <b>MSE</b> specifically squares the differences before averaging them.
+✅ <b>Correct Answer: C</b><br><br>
+<b>Why it's correct:</b> <b>MSE</b> specifically squares the differences before averaging them.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>MAE</b> uses absolute values, not squares.
+* <b>RMSE</b> is the square root of the MSE.
 </blockquote>
 </details>
 
@@ -541,8 +624,9 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
-<b>Why it's correct:</b> <b>Neural Networks</b> are the foundation of Deep Learning, consisting of input, hidden, and output layers.
+✅ <b>Correct Answer: C</b><br><br>
+<b>Why it's correct:</b> <b>Neural Networks</b> are the foundation of Deep Learning, consisting of input, hidden, and output layers.<br><br>
+<b>Why the others are wrong:</b> SVM, Decision Trees, and KNN are "traditional" ML algorithms and do not use a layered neural architecture.
 </blockquote>
 </details>
 
@@ -560,8 +644,12 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> <b>Pixels</b> are the fundamental building blocks of digital images, forming the grid of individual colored points that the computer "sees."
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> <b>Pixels</b> are the fundamental building blocks of digital images, forming the grid of individual colored points that the computer "sees."<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Filters</b> modify pixels but aren't the structure itself.
+* <b>Neural networks</b> analyze the data within pixels.
+* <b>Labels</b> are categories assigned to the image.
 </blockquote>
 </details>
 
@@ -577,8 +665,12 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> <b>Bounding boxes</b> are the rectangular coordinates used to outline and locate specific objects in an image.
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> <b>Bounding boxes</b> are the rectangular coordinates used to outline and locate specific objects in an image.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>OCR</b> reads text.
+* <b>Facial detection</b> only finds faces.
+* <b>Image classification</b> tells you <i>what</i> is in an image but not <i>where</i> it is.
 </blockquote>
 </details>
 
@@ -594,8 +686,9 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
-<b>Why it's correct:</b> <b>Convolution</b> is a feature extraction step used to identify patterns like edges, textures, and shapes within the pixel data.
+✅ <b>Correct Answer: C</b><br><br>
+<b>Why it's correct:</b> <b>Convolution</b> is a feature extraction step used to identify patterns like edges, textures, and shapes within the pixel data.<br><br>
+<b>Why the others are wrong:</b> It isn't used for resizing or color inversion, and it happens before the final labeling step.
 </blockquote>
 </details>
 
@@ -611,8 +704,12 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> <b>Azure AI Vision</b> (formerly Computer Vision) is the specific suite of tools for image analysis, OCR, and spatial analysis.
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> <b>Azure AI Vision</b> (formerly Computer Vision) is the specific suite of tools for image analysis, OCR, and spatial analysis.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Search</b> is for indexing data.
+* <b>Machine Learning</b> is a general platform.
+* <b>Kubernetes</b> is for managing containers.
 </blockquote>
 </details>
 
@@ -628,8 +725,12 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> <b>CNNs</b> are the industry standard for vision because they use convolutional layers to extract visual features effectively.
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> <b>CNNs</b> are the industry standard for vision because they use convolutional layers to extract visual features effectively.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>RNNs</b> are for sequential data (like text/speech).
+* <b>GANs</b> are for generating new images.
+* <b>Transformers</b> are mostly for NLP (though "Vision Transformers" exist, CNNs are the primary answer for AI-900).
 </blockquote>
 </details>
 
@@ -645,8 +746,9 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
-<b>Why it's correct:</b> <b>Pooling layers</b> (like Max Pooling) downsample the image data, reducing the dimensions while keeping the most important information.
+✅ <b>Correct Answer: C</b><br><br>
+<b>Why it's correct:</b> <b>Pooling layers</b> (like Max Pooling) downsample the image data, reducing the dimensions while keeping the most important information.<br><br>
+<b>Why the others are wrong:</b> Convolutional layers extract features; Fully connected layers connect neurons for the final decision.
 </blockquote>
 </details>
 
@@ -662,8 +764,9 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> <b>Optical Character Recognition (OCR)</b> is the specific technology used to turn text images into machine-readable text data.
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> <b>Optical Character Recognition (OCR)</b> is the specific technology used to turn text images into machine-readable text data.<br><br>
+<b>Why the others are wrong:</b> Classification, Facial detection, and Object detection do not "read" or interpret characters.
 </blockquote>
 </details>
 
@@ -679,8 +782,9 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> <b>Privacy and consent</b> are the biggest ethical hurdles, as facial data is sensitive biometric information.
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> <b>Privacy and consent</b> are the biggest ethical hurdles, as facial data is sensitive biometric information.<br><br>
+<b>Why the others are wrong:</b> Color accuracy and costs are technical issues, not ethical ones.
 </blockquote>
 </details>
 
@@ -696,8 +800,9 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> A <b>confidence score</b> (usually 0 to 1 or 0% to 100%) tells you how certain the AI is that its prediction is correct.
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> A <b>confidence score</b> (usually 0 to 1 or 0% to 100%) tells you how certain the AI is that its prediction is correct.<br><br>
+<b>Why the others are wrong:</b> Bounding box colors are just for visual display; pixel count and file type don't relate to accuracy.
 </blockquote>
 </details>
 
@@ -713,8 +818,9 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
-<b>Why it's correct:</b> <b>Activation functions</b> (like Softmax at the end) help map the network's internal values to a set of probabilities for each possible category.
+✅ <b>Correct Answer: C</b><br><br>
+<b>Why it's correct:</b> <b>Activation functions</b> (like Softmax at the end) help map the network's internal values to a set of probabilities for each possible category.<br><br>
+<b>Why the others are wrong:</b> Edges are found by convolutional layers, and size is reduced by pooling layers.
 </blockquote>
 </details>
 
@@ -732,8 +838,12 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
-<b>Why it's correct:</b> <b>Azure AI Translator</b> is the specific service designed for text-to-text translation across dozens of languages.
+✅ <b>Correct Answer: C</b><br><br>
+<b>Why it's correct:</b> <b>Azure AI Translator</b> is the specific service designed for text-to-text translation across dozens of languages.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Azure AI Language</b> is for analyzing text (sentiment, entities).
+* <b>Azure AI Speech</b> is for converting voice to text (or vice versa).
+* <b>Sentiment</b> is a feature of AI Language, not a translation service.
 </blockquote>
 </details>
 
@@ -749,8 +859,12 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
-<b>Why it's correct:</b> <b>NER</b> is used to find and label "entities" like people, places, dates, and organizations within a body of text.
+✅ <b>Correct Answer: C</b><br><br>
+<b>Why it's correct:</b> <b>NER</b> is used to find and label "entities" like people, places, dates, and organizations within a body of text.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Sentiment analysis</b> checks for "Positive/Negative" tones.
+* <b>Language detection</b> identifies the language (e.g., French vs. English).
+* <b>Key phrase extraction</b> finds the main talking points but doesn't categorize them as specific entities.
 </blockquote>
 </details>
 
@@ -766,8 +880,12 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
-<b>Why it's correct:</b> <b>Real-time speech-to-text</b> allows you to transcribe audio streams (like a live meeting) into text instantly.
+✅ <b>Correct Answer: C</b><br><br>
+<b>Why it's correct:</b> <b>Real-time speech-to-text</b> allows you to transcribe audio streams (like a live meeting) into text instantly.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Text-to-speech</b> goes the opposite way (writing to voice).
+* <b>Summarization</b> condenses text.
+* <b>Custom Translator</b> is for specialized text translation.
 </blockquote>
 </details>
 
@@ -783,8 +901,9 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
-<b>Why it's correct:</b> <b>Tokenization</b> is the process of splitting a sentence into smaller units (tokens), such as words or sub-words, so the AI can process them.
+✅ <b>Correct Answer: C</b><br><br>
+<b>Why it's correct:</b> <b>Tokenization</b> is the process of splitting a sentence into smaller units (tokens), such as words or sub-words, so the AI can process them.<br><br>
+<b>Why the others are wrong:</b> It doesn't involve identifiers, voice conversion, or language detection.
 </blockquote>
 </details>
 
@@ -800,8 +919,12 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> <b>Key phrase extraction</b> quickly identifies the most important points or "talking points" in a document.
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> <b>Key phrase extraction</b> quickly identifies the most important points or "talking points" in a document.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>NER</b> (Choice A) handles categories.
+* <b>Language detection</b> (Choice C) handles languages.
+* <b>Sentiment analysis</b> (Choice D) handles emotions.
 </blockquote>
 </details>
 
@@ -817,8 +940,9 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
-<b>Why it's correct:</b> <b>PII (Personally Identifiable Information) detection</b> is designed to find and redact sensitive data like SSNs, emails, and phone numbers.
+✅ <b>Correct Answer: C</b><br><br>
+<b>Why it's correct:</b> <b>PII (Personally Identifiable Information) detection</b> is designed to find and redact sensitive data like SSNs, emails, and phone numbers.<br><br>
+<b>Why the others are wrong:</b> None of the other features are built to recognize or protect private, sensitive data types.
 </blockquote>
 </details>
 
@@ -834,8 +958,12 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> <b>Stop-word removal</b> cleans the text of common words that don't help the AI understand the core meaning of a sentence.
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> <b>Stop-word removal</b> cleans the text of common words that don't help the AI understand the core meaning of a sentence.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Lemmatization</b> reduces words to their root (e.g., "running" to "run").
+* <b>Tokenization</b> splits the text.
+* <b>Frequency analysis</b> counts how often words appear.
 </blockquote>
 </details>
 
@@ -851,8 +979,9 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> <b>Entity linking</b> provides context by connecting a word to a specific knowledge base entry (e.g., distinguishing between Paris, France and Paris Hilton).
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> <b>Entity linking</b> provides context by connecting a word to a specific knowledge base entry (e.g., distinguishing between Paris, France and Paris Hilton).<br><br>
+<b>Why the others are wrong:</b> Entity recognition finds the word, but "linking" provides the specific identity/reference.
 </blockquote>
 </details>
 
@@ -868,8 +997,9 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> The <b>Fast Transcription API</b> is optimized for speed, providing rapid transcription for audio files.
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> The <b>Fast Transcription API</b> is optimized for speed, providing rapid transcription for audio files.<br><br>
+<b>Why the others are wrong:</b> Translation is handled by Translator; lifelike speech is handled by Text-to-Speech.
 </blockquote>
 </details>
 
@@ -885,8 +1015,9 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> <b>Summarization</b> uses AI to condense long documents into short, meaningful summaries.
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> <b>Summarization</b> uses AI to condense long documents into short, meaningful summaries.<br><br>
+<b>Why the others are wrong:</b> Text-to-speech makes audio; detection and recognition identify parts of the text but don't condense it.
 </blockquote>
 </details>
 
@@ -903,8 +1034,12 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> <b>DALL-E</b> is the specific generative AI model integrated into Azure OpenAI for creating original images from natural language descriptions.
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> <b>DALL-E</b> is the specific generative AI model integrated into Azure OpenAI for creating original images from natural language descriptions.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Semantic search</b> retrieves existing info.
+* <b>Content moderation</b> filters safe/unsafe content.
+* <b>Dialogue creation</b> is a text-based task (GPT).
 </blockquote>
 </details>
 
@@ -920,8 +1055,9 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
-<b>Why it's correct:</b> <b>Embeddings</b> convert words into mathematical vectors so the model can understand how words relate to each other in meaning (e.g., "king" and "queen" are close together).
+✅ <b>Correct Answer: C</b><br><br>
+<b>Why it's correct:</b> <b>Embeddings</b> convert words into mathematical vectors so the model can understand how words relate to each other in meaning (e.g., "king" and "queen" are close together).<br><br>
+<b>Why the others are wrong:</b> Embeddings are the "math" behind the language, but they aren't the filters or the specific recommendation engine itself.
 </blockquote>
 </details>
 
@@ -937,8 +1073,11 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: D</b><br><br>
-<b>Why it's correct:</b> The <b>Encoder block</b> is responsible for processing and understanding the context of the input data.
+✅ <b>Correct Answer: D</b><br><br>
+<b>Why it's correct:</b> The <b>Encoder block</b> is responsible for processing and understanding the context of the input data.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Decoder blocks</b> focus on <i>generating</i> the response.
+* <b>Self-attention</b> is a mechanism <i>inside</i> the blocks, but the Encoder is the overall component.
 </blockquote>
 </details>
 
@@ -954,8 +1093,9 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
-<b>Why it's correct:</b> <b>Contextual question answering</b> is the specific task of having an AI engage in natural conversation to provide accurate answers based on provided data.
+✅ <b>Correct Answer: C</b><br><br>
+<b>Why it's correct:</b> <b>Contextual question answering</b> is the specific task of having an AI engage in natural conversation to provide accurate answers based on provided data.<br><br>
+<b>Why the others are wrong:</b> Image generation and Summarization are "one-way" tasks, not conversational dialogues.
 </blockquote>
 </details>
 
@@ -971,8 +1111,9 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
-<b>Why it's correct:</b> <b>Multihead attention</b> allows the model to look at different parts of a sentence simultaneously to understand complex relationships (e.g., who "he" refers to in a long paragraph).
+✅ <b>Correct Answer: C</b><br><br>
+<b>Why it's correct:</b> <b>Multihead attention</b> allows the model to look at different parts of a sentence simultaneously to understand complex relationships (e.g., who "he" refers to in a long paragraph).<br><br>
+<b>Why the others are wrong:</b> It is a specific architectural feature for understanding, not the final act of translating or token generation.
 </blockquote>
 </details>
 
@@ -988,8 +1129,9 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> <b>LLMs</b> (like GPT-4) have billions of parameters, requiring massive amounts of GPU memory and storage compared to SLMs (like Phi-3).
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> <b>LLMs</b> (like GPT-4) have billions of parameters, requiring massive amounts of GPU memory and storage compared to SLMs (like Phi-3).<br><br>
+<b>Why the others are wrong:</b> SLMs are actually better for fast response times, low energy, and on-premises use.
 </blockquote>
 </details>
 
@@ -1005,8 +1147,9 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> The <b>Model Catalog</b> gives developers a "one-stop shop" for many different types of state-of-the-art models (OpenAI, Meta, Mistral, etc.).
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> The <b>Model Catalog</b> gives developers a "one-stop shop" for many different types of state-of-the-art models (OpenAI, Meta, Mistral, etc.).<br><br>
+<b>Why the others are wrong:</b> It isn't just for training or image generation, and it is no longer exclusive to just OpenAI.
 </blockquote>
 </details>
 
@@ -1022,8 +1165,9 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> The <b>Safety Layer</b> acts as a filter that checks both the user's prompt and the AI's response for hate speech, violence, or self-harm content.
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> The <b>Safety Layer</b> acts as a filter that checks both the user's prompt and the AI's response for hate speech, violence, or self-harm content.<br><br>
+<b>Why the others are wrong:</b> Setting expectations is a UX task; improving embeddings is a technical training task.
 </blockquote>
 </details>
 
@@ -1039,8 +1183,11 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
-<b>Why it's correct:</b> The <b>Decoder</b> takes the context from the Encoder and predicts the next tokens to create a coherent output.
+✅ <b>Correct Answer: B</b><br><br>
+<b>Why it's correct:</b> The <b>Decoder</b> takes the context from the Encoder and predicts the next tokens to create a coherent output.<br><br>
+<b>Why the others are wrong:</b> 
+* <b>Choice A</b> is the Encoder's job.
+* <b>Choice C</b> is the Embedding layer's job.
 </blockquote>
 </details>
 
@@ -1056,8 +1203,9 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: D</b><br><br>
-<b>Why it's correct:</b> Microsoft recommends a <b>phased rollout</b> (starting with a small group of users) so you can monitor for issues and have a plan ready if the AI behaves unexpectedly.
+✅ <b>Correct Answer: D</b><br><br>
+<b>Why it's correct:</b> Microsoft recommends a <b>phased rollout</b> (starting with a small group of users) so you can monitor for issues and have a plan ready if the AI behaves unexpectedly.<br><br>
+<b>Why the others are wrong:</b> Full-scale rollouts and ignoring documentation are high-risk behaviors that violate Responsible AI principles.
 </blockquote>
 </details>
 
@@ -1076,8 +1224,10 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
+✅ <b>Correct Answer: B</b><br><br>
 <b>Why it's correct:</b> Fairness ensures that decisions are made based on relevant financial data and are free from bias or discrimination. In lending, preventing bias against specific groups is the top priority.
+<br><br>
+<b>Why others are wrong:</b> While transparency (explaining decisions) and privacy (protecting data) are important, they are secondary to the ethical necessity of unbiased lending.
 </blockquote>
 </details>
 
@@ -1093,8 +1243,10 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
+✅ <b>Correct Answer: B</b><br><br>
 <b>Why it's correct:</b> <b>Knowledge mining</b> is specifically designed to index large collections of unstructured content (like PDFs and images) and make them searchable.
+<br><br>
+<b>Why others are wrong:</b> Computer vision sees images, Conversational AI is for chat, and Sentiment analysis identifies emotions—none of these help with deep document indexing.
 </blockquote>
 </details>
 
@@ -1110,7 +1262,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
+✅ <b>Correct Answer: C</b><br><br>
 <b>Why it's correct:</b> You must first <b>identify</b> what could go wrong, then <b>measure</b> how likely/severe it is, and finally <b>mitigate</b> (fix) the risk.
 </blockquote>
 </details>
@@ -1127,7 +1279,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
+✅ <b>Correct Answer: B</b><br><br>
 <b>Why it's correct:</b> Microsoft retired <b>Emotion recognition</b> because of concerns regarding its scientific validity and the risk of discriminatory use.
 </blockquote>
 </details>
@@ -1144,7 +1296,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: A</b><br><br>
+✅ <b>Correct Answer: A</b><br><br>
 <b>Why it's correct:</b> Text analytics (part of Azure AI Language) is designed to extract insights and categories from written property descriptions.
 </blockquote>
 </details>
@@ -1161,7 +1313,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
+✅ <b>Correct Answer: B</b><br><br>
 <b>Why it's correct:</b> You cannot effectively fix (mitigate) a problem until you have <b>measured</b> the impact and severity of the potential harm.
 </blockquote>
 </details>
@@ -1178,7 +1330,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: A</b><br><br>
+✅ <b>Correct Answer: A</b><br><br>
 <b>Why it's correct:</b> Language understanding allows the system to process written feedback and interpret the customer's intent or meaning.
 </blockquote>
 </details>
@@ -1195,7 +1347,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
+✅ <b>Correct Answer: B</b><br><br>
 <b>Why it's correct:</b> When dealing with physical drones and medical supplies, ensuring the system operates <b>safely and reliably</b> is the number one priority to prevent accidents.
 </blockquote>
 </details>
@@ -1212,7 +1364,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: A</b><br><br>
+✅ <b>Correct Answer: A</b><br><br>
 <b>Why it's correct:</b> <b>Conversational AI</b> (Chatbots) provides real-time, interactive communication needed for 24/7 customer service.
 </blockquote>
 </details>
@@ -1229,7 +1381,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: A</b><br><br>
+✅ <b>Correct Answer: A</b><br><br>
 <b>Why it's correct:</b> <b>Transparency</b> ensures that people understand how a system works and what its limits are.
 </blockquote>
 </details>
@@ -1246,7 +1398,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
+✅ <b>Correct Answer: B</b><br><br>
 <b>Why it's correct:</b> Identification of potential harms is the foundational first step of the Microsoft Responsible AI standard.
 </blockquote>
 </details>
@@ -1263,7 +1415,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
+✅ <b>Correct Answer: B</b><br><br>
 <b>Why it's correct:</b> Since the goal is to "group" (cluster) data that doesn't have existing labels, <b>Unsupervised Learning</b> is the correct choice.
 </blockquote>
 </details>
@@ -1280,7 +1432,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: A</b><br><br>
+✅ <b>Correct Answer: A</b><br><br>
 <b>Why it's correct:</b> Temperature is an input used to make the prediction, which is called a <b>Feature</b>. The yield itself would be the Label.
 </blockquote>
 </details>
@@ -1297,7 +1449,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
+✅ <b>Correct Answer: C</b><br><br>
 <b>Why it's correct:</b> You must split the data <b>before</b> training so that the model has "unseen" data (the validation set) to be tested on later.
 </blockquote>
 </details>
@@ -1314,7 +1466,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
+✅ <b>Correct Answer: B</b><br><br>
 <b>Why it's correct:</b> Readmission (Yes/No) is a classification task. <b>Accuracy</b> is a standard metric for classification. (MSE and R2 are for regression).
 </blockquote>
 </details>
@@ -1331,7 +1483,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
+✅ <b>Correct Answer: C</b><br><br>
 <b>Why it's correct:</b> <b>Overfitting</b> means the model "memorized" the training data but failed to generalize to the new test data.
 </blockquote>
 </details>
@@ -1348,7 +1500,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
+✅ <b>Correct Answer: C</b><br><br>
 <b>Why it's correct:</b> You have to create the "canvas" or <b>pipeline infrastructure</b> before you can drag and drop modules onto it.
 </blockquote>
 </details>
@@ -1365,7 +1517,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
+✅ <b>Correct Answer: C</b><br><br>
 <b>Why it's correct:</b> Delivery time is a continuous <b>number</b>, making this a <b>Regression</b> problem.
 </blockquote>
 </details>
@@ -1382,7 +1534,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
+✅ <b>Correct Answer: C</b><br><br>
 <b>Why it's correct:</b> You start with the environment (Workspace), then clean data, then train, then deploy.
 </blockquote>
 </details>
@@ -1399,7 +1551,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
+✅ <b>Correct Answer: B</b><br><br>
 <b>Why it's correct:</b> <b>Underfitting</b> happens when the model is too simple to learn the patterns in even the training data.
 </blockquote>
 </details>
@@ -1416,8 +1568,10 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
+✅ <b>Correct Answer: C</b><br><br>
 <b>Why it's correct:</b> An <b>inference pipeline</b> is used to deploy the model and generate predictions. You cannot create it until the model is finalized and "trained."
+<br><br>
+<b>Why others are wrong:</b> You can't predict (infer) with a model that hasn't finished its training phase yet.
 </blockquote>
 </details>
 
@@ -1433,7 +1587,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
+✅ <b>Correct Answer: B</b><br><br>
 <b>Why it's correct:</b> <b>Clustering</b> is the unsupervised learning technique specifically used to find natural groups in data without labels.
 </blockquote>
 </details>
@@ -1450,7 +1604,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
+✅ <b>Correct Answer: B</b><br><br>
 <b>Why it's correct:</b> Before you can analyze or translate a comment, you must first <b>detect</b> which language it is written in to route it correctly.
 </blockquote>
 </details>
@@ -1467,7 +1621,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
+✅ <b>Correct Answer: C</b><br><br>
 <b>Why it's correct:</b> <b>NER</b> identifies and categorizes specific "entities" like diseases or medications. Azure AI Language also has a specialized version called "NER for Health."
 </blockquote>
 </details>
@@ -1484,7 +1638,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
+✅ <b>Correct Answer: C</b><br><br>
 <b>Why it's correct:</b> If the language isn't recognized, the system returns <b>NaN (Not a Number)</b> for the confidence score because it cannot calculate how certain it is.
 </blockquote>
 </details>
@@ -1501,7 +1655,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
+✅ <b>Correct Answer: B</b><br><br>
 <b>Why it's correct:</b> <b>Batch translation</b> (Document Translation) is designed to translate entire files (like Word or PDF) while keeping the original layout, tables, and fonts.
 </blockquote>
 </details>
@@ -1518,7 +1672,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: A</b><br><br>
+✅ <b>Correct Answer: A</b><br><br>
 <b>Why it's correct:</b> A virtual assistant needs <b>Language understanding</b> to know what the user wants (intent) and <b>Translator</b> to handle various languages.
 </blockquote>
 </details>
@@ -1535,7 +1689,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
+✅ <b>Correct Answer: C</b><br><br>
 <b>Why it's correct:</b> <b>Content filtering</b> uses AI to block hate speech, violence, and self-harm content in real-time.
 </blockquote>
 </details>
@@ -1552,7 +1706,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
+✅ <b>Correct Answer: C</b><br><br>
 <b>Why it's correct:</b> <b>Custom neural voice</b> allows you to create highly realistic, human-like speech from text.
 </blockquote>
 </details>
@@ -1569,7 +1723,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
+✅ <b>Correct Answer: B</b><br><br>
 <b>Why it's correct:</b> To train a custom translator, you need <b>parallel sentence pairs</b> (the same sentence in two different languages) so the model learns the specific mapping.
 </blockquote>
 </details>
@@ -1586,7 +1740,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
+✅ <b>Correct Answer: B</b><br><br>
 <b>Why it's correct:</b> <b>Speech-to-text</b> transcribes spoken audio into written words, which is exactly how subtitles are made.
 </blockquote>
 </details>
@@ -1603,7 +1757,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
+✅ <b>Correct Answer: C</b><br><br>
 <b>Why it's correct:</b> <b>Embeddings</b> represent text as math vectors; if two vectors are close together, the tickets are semantically similar.
 </blockquote>
 </details>
@@ -1620,7 +1774,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
+✅ <b>Correct Answer: C</b><br><br>
 <b>Why it's correct:</b> <b>Speaker recognition</b> (Diarization) identifies <i>who</i> is speaking in an audio file.
 </blockquote>
 </details>
@@ -1637,7 +1791,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
+✅ <b>Correct Answer: B</b><br><br>
 <b>Why it's correct:</b> <b>Object detection</b> identifies <i>what</i> the animal is and <i>where</i> it is, allowing you to count multiple animals in one frame.
 </blockquote>
 </details>
@@ -1654,7 +1808,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
+✅ <b>Correct Answer: C</b><br><br>
 <b>Why it's correct:</b> <b>Semantic segmentation</b> labels every pixel in an image (e.g., "Car" or "Empty Asphalt"), which is perfect for precise boundary detection in a parking lot.
 </blockquote>
 </details>
@@ -1671,7 +1825,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
+✅ <b>Correct Answer: C</b><br><br>
 <b>Why it's correct:</b> You get the <b>Bounding box</b> (location) and the <b>Confidence score</b> (how sure the AI is).
 </blockquote>
 </details>
@@ -1688,7 +1842,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
+✅ <b>Correct Answer: B</b><br><br>
 <b>Why it's correct:</b> Since "Paintings" isn't a standard pre-built category like celebrities, the museum should use <b>Custom Vision</b> to train its own model.
 </blockquote>
 </details>
@@ -1705,7 +1859,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
+✅ <b>Correct Answer: C</b><br><br>
 <b>Why it's correct:</b> Microsoft retired <b>Emotion recognition</b> because it is ethically sensitive and often scientifically unreliable.
 </blockquote>
 </details>
@@ -1722,7 +1876,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: A</b><br><br>
+✅ <b>Correct Answer: A</b><br><br>
 <b>Why it's correct:</b> <b>Form Recognizer</b> (Document Intelligence) is the best tool for extracting data from structured forms, even if they are handwritten.
 </blockquote>
 </details>
@@ -1739,7 +1893,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
+✅ <b>Correct Answer: B</b><br><br>
 <b>Why it's correct:</b> You can give <b>DALL-E</b> an image and ask it to create <b>variations</b> of that image (different style, lighting, etc.).
 </blockquote>
 </details>
@@ -1756,7 +1910,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
+✅ <b>Correct Answer: B</b><br><br>
 <b>Why it's correct:</b> <b>Liveness detection</b> is a specific feature of Azure AI Face that distinguishes between a "live" person and a spoof (like a printed photo or a mask).
 </blockquote>
 </details>
@@ -1773,7 +1927,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
+✅ <b>Correct Answer: C</b><br><br>
 <b>Why it's correct:</b> Azure AI Vision's **Read API** includes specialized <b>Handwritten text recognition</b> to digitize non-printed text.
 </blockquote>
 </details>
@@ -1790,7 +1944,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
+✅ <b>Correct Answer: B</b><br><br>
 <b>Why it's correct:</b> DALL-E is a "text-to-image" model; it generates visuals based on a <b>natural language prompt</b> (e.g., "A cat wearing a tuxedo").
 </blockquote>
 </details>
@@ -1807,7 +1961,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
+✅ <b>Correct Answer: C</b><br><br>
 <b>Why it's correct:</b> <b>Spatial analysis</b> tracks how people move through a physical space (heatmaps, line counting) without needing to identify who they are.
 </blockquote>
 </details>
@@ -1824,7 +1978,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
+✅ <b>Correct Answer: B</b><br><br>
 <b>Why it's correct:</b> <b>GPT</b> (Generative Pre-trained Transformer) models are designed for text and code generation, making them perfect for creating test cases.
 </blockquote>
 </details>
@@ -1841,7 +1995,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
+✅ <b>Correct Answer: B</b><br><br>
 <b>Why it's correct:</b> <b>Copilot</b> solutions are designed to assist with content creation in specific domains like marketing, helping to draft text alongside a human user.
 </blockquote>
 </details>
@@ -1858,7 +2012,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
+✅ <b>Correct Answer: B</b><br><br>
 <b>Why it's correct:</b> A <b>Tone specification</b> (e.g., "You are a formal assistant") in the <b>System Message</b> guides the AI's stylistic output.
 </blockquote>
 </details>
@@ -1875,7 +2029,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: C</b><br><br>
+✅ <b>Correct Answer: C</b><br><br>
 <b>Why it's correct:</b> In Azure OpenAI's architecture, the <b>Safety system layer</b> is where real-time filtering for harmful content takes place.
 </blockquote>
 </details>
@@ -1892,7 +2046,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
+✅ <b>Correct Answer: B</b><br><br>
 <b>Why it's correct:</b> <b>Python</b> is one of the most widely supported languages in modern LLMs due to its massive presence in training datasets.
 </blockquote>
 </details>
@@ -1909,7 +2063,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: A</b><br><br>
+✅ <b>Correct Answer: A</b><br><br>
 <b>Why it's correct:</b> <b>Zero-shot learning</b> is when a model performs a task based only on its pre-training, without being given any specific examples in the prompt.
 </blockquote>
 </details>
@@ -1926,7 +2080,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
+✅ <b>Correct Answer: B</b><br><br>
 <b>Why it's correct:</b> <b>Content safety filters</b> are critical in sensitive fields like healthcare to ensure the AI doesn't provide harmful or inappropriate medical advice.
 </blockquote>
 </details>
@@ -1943,7 +2097,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
+✅ <b>Correct Answer: B</b><br><br>
 <b>Why it's correct:</b> Copilots are "assistants." They excel at <b>repetitive tasks</b> (like writing boilerplate code), allowing the human to focus on complex logic.
 </blockquote>
 </details>
@@ -1960,7 +2114,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
+✅ <b>Correct Answer: B</b><br><br>
 <b>Why it's correct:</b> <b>System messages</b> set the "ground rules" and behavior instructions that stay active across the entire conversation.
 </blockquote>
 </details>
@@ -1977,7 +2131,7 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
+✅ <b>Correct Answer: B</b><br><br>
 <b>Why it's correct:</b> For niche industries, the model needs <b>domain-specific context</b> (often via RAG or Fine-tuning) to be accurate and useful.
 </blockquote>
 </details>
@@ -1994,7 +2148,8 @@ Markdown
 <summary><b>Show Answer</b></summary>
 <br>
 <blockquote>
-<b>Correct Answer: B</b><br><br>
+✅ <b>Correct Answer: B</b><br><br>
 <b>Why it's correct:</b> <b>Grounding</b> (using RAG) forces the AI to look at "reference data" (your own trusted documents) before answering, which significantly reduces made-up facts (hallucinations).
 </blockquote>
 </details>
+
