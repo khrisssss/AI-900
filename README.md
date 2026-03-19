@@ -4,6 +4,7 @@ I created these **AI-900 questionnaires** to help people study for their certifi
 
 This comprehensive guide includes chapter-specific quizzes and a full **55-question practice exam** based on the book *"Azure AI Fundamentals (AI-900) Study Guide."* I hope this resource helps you succeed on your learning journey!
 
+<<<<<<< HEAD
 <p align="center">
   <img src="./cbfd06bc-1.png" width="400" alt="AI-900 Study Guide Cover">
 </p>
@@ -19,6 +20,9 @@ This comprehensive guide includes chapter-specific quizzes and a full **55-quest
 7. [**AI-900 Final Practice Exam (55 Questions)**](#ai-900-final-practice-exam-)
 
 ---
+=======
+
+>>>>>>> e6d79a8cff8d3fb96519af75d190a181f6e03566
 ---
 
 # Practice Questions
